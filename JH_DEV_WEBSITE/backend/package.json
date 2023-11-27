@@ -1,0 +1,21 @@
+{
+  "name": "jh_dev_website",
+  "version": "1.0.0",
+  "description": "Personal Website for joehill.dev domain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Hill 2023",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.5",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2",
+    "vuetify": "^3.2.2"
+  }
+}
